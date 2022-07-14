@@ -60,7 +60,7 @@
                         }
                     ],
                     "size": 1039537,
-                    "checksum": "SHA-256:98d140520468cd4a2e3b99a02a981f4aa0474f5f0cb27fe304dc7ebac8d6503c"
+                    "checksum": "SHA-256:63516ce3ed790e59611f05e5db958c27a2ceccfe55fc6cfa43264710390e9c28"
                 }, 
                 {
                     "name": "WEIDOS-ESP32",
