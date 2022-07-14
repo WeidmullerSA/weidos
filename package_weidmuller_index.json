@@ -26,7 +26,7 @@
                         }
                     ],
                     "archiveFileName": "weidos-mkr-1.0.0.tar.bz2",
-                    "url": "https://xavibucket.s3.eu-west-1.amazonaws.com/weidos-mkr-1.0.0.tar.bz2",
+                    "url": "https://mdcop.weidmueller.com/mediadelivery/asset/900_264068?_ga=2.153488632.1368949297.1657702741-1855011272.1652958093",
                     "toolsDependencies": [
                         {
                           "packager": "arduino",
