@@ -61,47 +61,6 @@
                     ],
                     "size": 1039328,
                     "checksum": "SHA-256:322ce787b33168c49b044b9610b5bf912951ff7fcfe2a1b67627e5024f17d7a7"
-                }, 
-                {
-                    "name": "WEIDOS-ESP32",
-                    "architecture": "esp32",
-                    "version": "1.0.0",
-                    "category": "Contributed",
-                    "help": {
-                        "online": "http://www.weidmueller.com"
-                    },
-                    "boards": [
-                        {
-                            "name": "WEIDOS-ESP32"
-                        },
-                        {
-                            "name": "WEIDOS-ESP32-LoRa"
-                        },
-                        {
-                            "name": "WEIDOS-ESP32-GPRS-NB"
-                        }
-                    ],
-                    "archiveFileName": "weidos-esp32-1.0.0.tar.bz2",
-                    "url": "https://xavibucket.s3.eu-west-1.amazonaws.com/weidos-esp32-1.0.0.tar.bz2",
-                    "toolsDependencies": [
-                        {
-                            "packager": "weidmuller",
-                            "version": "1.22.0-80-g6c4433a-5.2.0",
-                            "name": "xtensa-esp32-elf-gcc"
-                        },
-                        {
-                            "packager": "weidmuller",
-                            "version": "2.6.1",
-                            "name": "esptool_py"
-                        },
-                        {
-                            "packager": "weidmuller",
-                            "version": "0.2.3",
-                            "name": "mkspiffs"
-                        }
-                    ],
-                    "size": 29981216,
-                    "checksum": "SHA-256:98594CBCCA6C9B922B1EC9AC8E3B848E938B4F0111DE3021DD9D4CC445CEDDBD"
                 }
             ],
             "tools": [
